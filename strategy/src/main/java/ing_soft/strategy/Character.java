@@ -7,6 +7,6 @@ public abstract class Character {
 	}
 	
 	public void fight() {
-		weapon.useWeapon();
+		System.out.println(weapon.useWeapon());
 	}
 }

@@ -1,8 +1,8 @@
 package ing_soft.strategy;
 public class BowAndArrow implements WeaponBehavior {
 
-	public void useWeapon() {
-		System.out.println("using a BowAndArrow");
+	public String useWeapon() {
+		return "using a BowAndArrow";
 	}
 	
 }

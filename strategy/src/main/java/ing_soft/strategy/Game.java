@@ -2,8 +2,7 @@ package ing_soft.strategy;
 public class Game {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+				
 		King kingCharacter = new King();
 		Queen queenCharacter = new Queen();
 	
