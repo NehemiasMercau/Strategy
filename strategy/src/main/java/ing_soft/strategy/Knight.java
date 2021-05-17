@@ -1,4 +1,4 @@
-
+package ing_soft.strategy;
 public class Knight extends Character  {
 	
 	public Knight() {

@@ -1,4 +1,4 @@
-
+package ing_soft.strategy;
 public class Queen extends Character  {
 
 	public Queen() {

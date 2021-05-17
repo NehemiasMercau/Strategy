@@ -1,4 +1,4 @@
-
+package ing_soft.strategy;
 public class Troll extends Character  {
 
 	public Troll() {

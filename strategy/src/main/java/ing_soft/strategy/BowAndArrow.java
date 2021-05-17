@@ -1,4 +1,4 @@
-
+package ing_soft.strategy;
 public class BowAndArrow implements WeaponBehavior {
 
 	public void useWeapon() {

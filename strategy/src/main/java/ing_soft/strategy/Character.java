@@ -1,4 +1,4 @@
-
+package ing_soft.strategy;
 public abstract class Character {
 	WeaponBehavior weapon;
 

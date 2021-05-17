@@ -1,4 +1,4 @@
-
+package ing_soft.strategy;
 public class Game {
 
 	public static void main(String[] args) {
